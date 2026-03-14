@@ -1,0 +1,7 @@
+{
+  "name": "InsureGuard AI",
+  "description": "Advanced health insurance fraud detection and claim analysis powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
